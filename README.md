@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Rawat</h1>
-<h3 align="center">Data Enthusiast.</h3>
+<h3 align="center">Data Enthusiast</h3>
 
 - 🌱 "Power BI, SQL, Excel, Tableau, Python - my tools of choice for all things data!"
 
